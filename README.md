@@ -5,8 +5,7 @@ AMIT Graduation Project / By AMON GROUP
 AMON GROUP TEAM MEMBERS
 
 
-Name: Abdelrahman Mohamed Abdelmoniem
-Mail: abdelrahman.laman.95@gmail.com
+Name: Abdelrahman Mohamed Abdelmoniem       Mail: abdelrahman.laman.95@gmail.com
 
 Name: Mohab Adel Mohamed
 Mail: mohab97official@gmail.com
