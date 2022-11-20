@@ -16,7 +16,3 @@ Mail: osama-egy@hotmail.com
 
 Name: Nader Esmaeil Moawad
 Mail: naderesmail09@gmail.com
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
