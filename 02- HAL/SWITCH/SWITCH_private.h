@@ -1,0 +1,4 @@
+#ifndef _HAL_SWITCH_PRIVATE_H_
+#define _HAL_SWITCH_PRIVATE_H_
+
+#endif /* _HAL_SWITCH_PRIVATE_H_ */
